@@ -3,8 +3,8 @@
 
 
 
-- 🌱 Estudante de Ciências da Computação / 3° Período
-- 😄 Pronomes: ela/dela
+- ✨ Estudante de Ciências da Computação / 3° Período
+
 
 No momento estou aprendendo:
 

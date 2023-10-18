@@ -19,3 +19,4 @@ No momento estou aprendendo:
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+![Fernanda GitHub stats](https://github-readme-stats.vercel.app/api?username=fer-oliveiraa&show_icons=true&theme=radical)

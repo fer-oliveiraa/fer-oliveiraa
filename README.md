@@ -3,7 +3,7 @@
 
 
 
-- ✨ Estudante de Ciências da Computação / 4° Período
+- ✨ Estudante de Ciências da Computação / 5° Período
 
 
 No momento estou aprendendo:

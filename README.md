@@ -1,9 +1,13 @@
-### Oie! Eu sou a Fernanda Oliveira ☕
+
+### Olá, meu nome é Fernanda! ☕
+<a href="https://github.com/iuricode" title="Perfil da Fernanda">
+  <img align='right'"right" src="https://github-readme-stats.vercel.app/api?username=fer-oliveiraa&theme=dracula&show_icons=true" />
+</a>
+<img src="https://img.shields.io/static/v1?label=Overview&message=Fernanda&theme=dracula&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 
 
-
-- ✨ Estudante de Ciências da Computação / 5° Período
+<p>Estudante de Ciências da Computação / 5° Período<br/>
 
 
 No momento estou aprendendo:
@@ -14,5 +18,8 @@ No momento estou aprendendo:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+
+
+  
 
 

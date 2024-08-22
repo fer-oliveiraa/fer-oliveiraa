@@ -3,7 +3,7 @@
 <a href="https://github.com/iuricode" title="Perfil da Fernanda">
   <img align='right'"right" src="https://github-readme-stats.vercel.app/api?username=fer-oliveiraa&theme=dracula&show_icons=true" />
 </a>
-<img src="https://img.shields.io/static/v1?label=Overview&message=Fernanda&theme=dracula&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
 
 
 

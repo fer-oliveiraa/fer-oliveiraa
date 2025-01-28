@@ -7,7 +7,7 @@
 
 
 
-<p>Estudante de Ciência da Computação / 6° Período<br/>
+<p>Estudante de Ciência da Computação / 7° Período<br/>
 
 
 No momento estou aprendendo:

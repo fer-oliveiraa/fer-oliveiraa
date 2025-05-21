@@ -2,14 +2,16 @@
 
 
 
-  <tr>
+<tr>
   <td style="vertical-align: middle; padding-right: 20px;">
     <p>
       Me chamo Fernanda, tenho 21 anos e sou estudante de Ciência da Computação no Instituto Federal do Triângulo Mineiro, atualmente no 7º período. Sou apaixonada por tecnologia e sempre busco aprender e compartilhar conhecimento.
     </p>
   </td>
-  <td style="vertical-align: middle; text-align: center;">
-    <img src="https://i.pinimg.com/originals/39/38/77/3938775fa4484f170466ecfa6da4e662.gif" width="300" alt="GIF animado" />
+  <td style="vertical-align: middle; padding: 0; margin: 0;">
+    <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+      <img src="https://i.pinimg.com/originals/39/38/77/3938775fa4484f170466ecfa6da4e662.gif" width="300" alt="GIF animado" />
+    </div>
   </td>
 </tr>
 

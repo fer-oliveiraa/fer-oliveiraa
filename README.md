@@ -1,18 +1,13 @@
 # ☕ Fernanda Oliveira
 
 
-<table style="border: none;">
-  <tr>
-    <td style="border: none; vertical-align: middle;">
-      <p>
-        Me chamo Fernanda, tenho 21 anos e sou estudante de Ciência da Computação no Instituto Federal do Triângulo Mineiro, atualmente no 7º período. Sou apaixonada por tecnologia e sempre busco aprender e compartilhar conhecimento.
-      </p>
-    </td>
-    <td style="border: none; vertical-align: middle;">
-      <img src="https://i.pinimg.com/originals/39/38/77/3938775fa4484f170466ecfa6da4e662.gif" width="400" alt="GIF animado" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <p style="max-width: 60%;">
+    Me chamo Fernanda, tenho 21 anos e sou estudante de Ciência da Computação no Instituto Federal do Triângulo Mineiro, atualmente no 7º período. Sou apaixonada por tecnologia e sempre busco aprender e compartilhar conhecimento.
+  </p>
+  <img src="https://i.pinimg.com/originals/39/38/77/3938775fa4484f170466ecfa6da4e662.gif" width="300" alt="GIF animado" />
+</div>
+
 
 
 

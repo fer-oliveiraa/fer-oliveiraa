@@ -89,7 +89,7 @@
 ### 📊 Estatísticas
 <table>
   <tr>
-    <td style="vertical-align: middle; padding-right: 45px;">
+    <td style="vertical-align: middle; padding-right: 30px;">
 <p>
   <img 
     align="left" 

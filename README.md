@@ -104,7 +104,7 @@
       <img 
       align="left" 
       alt="GitHub Stats" 
-      height="170" 
+      height="167" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fer-oliveiraa&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
     </td>

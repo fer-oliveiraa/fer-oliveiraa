@@ -1,25 +1,108 @@
-
-### Olá, meu nome é Fernanda! ☕
-<a href="https://github.com/iuricode" title="Perfil da Fernanda">
-  <img align='right'"right" src="https://github-readme-stats.vercel.app/api?username=fer-oliveiraa&theme=dracula&show_icons=true" />
-</a>
+# ☕ Fernanda Oliveira
 
 
-
-
-<p>Estudante de Ciência da Computação / 7° Período<br/>
-
-
-No momento estou aprendendo:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<table>
+  <tr>
+    <td>
+      <p>
+        Me chamo Fernanda, tenho 21 anos e sou estudante de Ciência da Computação no Instituto Federal do Triângulo Mineiro, atualmente no 7º período. Sou apaixonada por tecnologia e sempre busco aprender e compartilhar conhecimento.
+      </p>
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/39/38/77/3938775fa4484f170466ecfa6da4e662.gif" width="900" alt="GIF animado" />
+    </td>
+  </tr>
+</table>
 
 
 
-  
+### 👩‍💻 Linguagens e Tecnologias que estou aprendendo no momento
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="flask" 
+    title="flask"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="docker" 
+    title="docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="jupyter" 
+    title="jupyter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
+/>
+
+
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=fer-oliveiraa&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fer-oliveiraa&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
 
 

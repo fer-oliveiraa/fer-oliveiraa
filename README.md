@@ -1,7 +1,7 @@
 # ☕ Fernanda Oliveira
 
 
-<table>
+
   <tr>
     <td style="vertical-align: middle; padding-right: 20px;">
       <p>
@@ -12,7 +12,7 @@
       <img src="https://i.pinimg.com/originals/39/38/77/3938775fa4484f170466ecfa6da4e662.gif" width="300" alt="GIF animado" />
     </td>
   </tr>
-</table>
+
 
 
 

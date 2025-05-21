@@ -9,7 +9,7 @@
       </p>
     </td>
     <td style="border: none; vertical-align: middle;">
-      <img src="https://i.pinimg.com/originals/39/38/77/3938775fa4484f170466ecfa6da4e662.gif" width="500" alt="GIF animado" />
+      <img src="https://i.pinimg.com/originals/39/38/77/3938775fa4484f170466ecfa6da4e662.gif" width="400" alt="GIF animado" />
     </td>
   </tr>
 </table>

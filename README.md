@@ -87,7 +87,7 @@
 <br/>
 
 ### 📊 Estatísticas
-<table>
+
   <tr>
     <td style="vertical-align: middle; padding-right: 30px;">
 <p>
@@ -109,7 +109,7 @@
   />
     </td>
   </tr>
-</table>
+
 
 </p>
 
